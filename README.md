@@ -45,3 +45,6 @@ Which allows for at least some automation. Further info can be found in the
 The sample players as well as the "automatic referee" are implemented in
 Python, which should allow for easily updating the code to match the rules and
 avoid any compilation issues.
+
+
+#######
